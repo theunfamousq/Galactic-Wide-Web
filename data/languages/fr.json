@@ -111,7 +111,7 @@
             "title": "MISES À JOUR DE RÉGION",
             "victories": "VICTOIRES",
             "new_regions": "NOUVELLES RÉGIONS DISPONIBLES",
-            "region_victory": "\n### La région {region_emoji} **{region_name}**, sur **{planet_name}**, a été libérée des {faction_name}",
+            "region_victory": "\n### La région {region_emoji} {region_name}, sur {planet_name}, a été libérée des {faction_name}",
             "new_region": "### {region_emoji} {region_name} est maintenant disponible sur {planet_name}",
             "resistance": "\n-# Résistance : **{regen}/h**"
         },
