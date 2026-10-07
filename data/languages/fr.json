@@ -12,13 +12,13 @@
             "defended": "La planète **{planet_name}** a été défendue avec succès contre les **{faction_name}**",
             "ahead_of_schedule": ", **{hours_remaining} heure(s)** en avance sur les prévisions",
             "defend": "### DÉFENDRE **{planet_name}** {emojis}",
-            "invasion_level": "\n-# Niveau d'invasion : **{level}{emoji}**",
+            "invasion_level": "\n-# Niveau d'invasion **{level}{emoji}**",
             "ends": "\n-# Se termine <t:{timestamp}:R>",
             "liberate": "### LIBÉRER **{planet_name}** {emojis}",
             "resistance": "\n-# Résistance : **{regen}/h**",
             "planet_lost": "La planète **{planet_name}** a été perdue au profit des **{faction_name}** {emojis}",
             "urgently_liberate": "### LIBÉRER D'URGENCE **{planet_name}** {emojis}",
-            "urgency_level": "\n-# Niveau d'urgence : **{level}{emoji}**"
+            "urgency_level": "\n-# Niveau d'urgence **{level}{emoji}**"
         },
         "DispatchContainer": {
             "dispatch": "Dépêche",
